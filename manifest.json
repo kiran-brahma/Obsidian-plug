@@ -1,0 +1,7 @@
+{
+    "id": "obsidian-seo-audit",
+    "name": "Obsidian SEO Audit",
+    "version": "0.0.1",
+    "minAppVersion": "1.0.0",
+    "description": "SEO audit plugin for Obsidian markdown files."
+}
